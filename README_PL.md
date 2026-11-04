@@ -91,7 +91,11 @@ Dane nie pozwalają określić dokładnej drogi przepływu ciepła, udziału pos
 
 ## Zawartość repozytorium
 
-Zdjęcia projektu i dodatkowe zapisy pomiarów są przeznaczone do uporządkowania w katalogu `images/` oraz w dokumentacji uzupełniającej w miarę dodawania materiałów.
+Dokumentacja fotograficzna projektu jest dostępna w katalogach:
+
+- [Zdjęcia sprzętu i montażu](images/hardware/)
+- [Zdjęcia pomiarów temperatury](images/temperature/)
+- [Zanonimizowany zrzut terminala z pomiarem](images/results/terminal_pomiar_zanonimizowany.png)
 
 ## Autorstwo
 

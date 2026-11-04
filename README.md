@@ -89,7 +89,11 @@ The data do not establish the exact heat-transfer path, the contribution of each
 
 ## Repository contents
 
-Project photographs and additional measurement records are intended to be organized under `images/` and supporting documentation as they are added.
+Photographic documentation is available in the following directories:
+
+- [Hardware and installation photographs](images/hardware/)
+- [Temperature measurement photographs](images/temperature/)
+- [Anonymized terminal measurement screenshot](images/results/terminal_pomiar_zanonimizowany.png)
 
 ## Credits
 
